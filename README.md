@@ -31,4 +31,10 @@ Analyze the  Cyslistic's historical trip data to analyze and identify trends
 6. Your top three recommendations based on your analysis
 
 ## Data Source
+[Download the 2021 Cyclistic trip data here.](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+The data has been made available by Motivate International Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
+
+This is public data that we can use to explore how diﬀerent customer types are using Cyclistic bikes and this case study is made using data from Jan 2021 to Dec 2021.
+
 
