@@ -3,6 +3,7 @@ This case study is an Capstone Project from the Google Data Analytics Procession
 
 ## How Does a Bike-Share Navigate Speedy Success?
 
+<img src="https://user-images.githubusercontent.com/99712824/154193401-da0f3496-83f5-47b5-9daa-cfeda4839792.png" width="450" height="400">
 
 ## Abount the Company 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
