@@ -1,26 +1,30 @@
 # Google Data Analytics Case Study
 This case study is an Capstone Project from the Google Data Analytics Processional Certificate on Coursera.
 
-## Bellabeat Fitness Tracking App Analysis
-![image](https://user-images.githubusercontent.com/99712824/154007847-a2cce084-7f3c-41af-8da4-ce4951fe7228.png)
+## How Does a Bike-Share Navigate Speedy Success?
+
 
 ## Abount the Company 
-Bellabeat, a high-tech company that manufactures health-focused smart products. Bellabeat was founded in 2013 by Urška Sršen and Sando Mur. The company empower women with knowledge about their own health and habits by collecting data on activity, sleep, stress, and reproductive health. This technology has informed and inspired women around the world.  Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women. 
+In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 
-Sršen knows that an analysis of Bellabeat’s available consumer data would reveal more opportunities for growth. She has asked the marketing analytics team to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are already using their smart devices.
+Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members.
+
+Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a very good chance to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
+
+Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
 ## Business Task:
-Analyze non Bellabeat smart devices (Fitbit) usage data in order to gain insight using the FitBit app and discover trends for Bellabeat marketing strategy.
+Analyze the  Cyslistic's historical trip data to analyze and identify trends
 
 ## Business Objectives:
-1. What are some trends in smart device usage? 
-2. How could these trends apply to Bellabeat customers? 
-3. How could these trends help inﬂuence Bellabeat marketing strategy? 
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
 
 ## Deliverables
-1. A clear summary of the business task 
-2. A description of all data sources used 
-3. Documentation of any cleaning or manipulation of data 
-4. A summary of your analysis 
-5. Supporting visualizations and key ﬁndings 
-6. Your top high-level content recommendations based on your analysis
+1. A clear statement of the business task
+2. A description of all data sources used
+3. Documentation of any cleaning or manipulation of data
+4. A summary of your analysis
+5. Supporting visualizations and key findings
+6. Your top three recommendations based on your analysis
